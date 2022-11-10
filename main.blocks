@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="+#H0QS#rz|0ZcC|4I];C">1</variable></variables><block type="device_button_event" id="j]$Mrt:JP[1K!X[`jf4J" x="210" y="-97"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="kJY_[#E*E{rQm-qsjXB9"><field name="LEDS">`
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_start_melody" id="]kq?R#j-ETcrK#mjlCtL"><field name="options">MelodyOptions.Once</field><value name="melody"><block type="device_builtin_melody" id="!T=+vnk5PnzC(sKeVy1t"><field name="melody">Melodies.PowerUp</field></block></value></block></next></block></statement></block><block type="device_button_event" id="!(w~+jUkIK3BaPxZOVrq" x="-185" y="-65"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="g[fhzH4~B4#/)1Xp[ggg"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        # . . . # 
+        . . # . . 
+        . # . # .
+        `</field><next><block type="device_start_melody" id="=1F2+?kbi*Dz`+OTPRtF"><field name="options">MelodyOptions.Once</field><value name="melody"><block type="device_builtin_melody" id="bB#/~3N4nL:AsBbMo|}r"><field name="melody">Melodies.Nyan</field></block></value></block></next></block></statement></block></xml>
